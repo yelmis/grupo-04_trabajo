@@ -12,5 +12,5 @@ console.log(ale)
             alert('¡El botón ha sido clickeado!');
             alert('Gracia por su apoyo y tiempo')
             // Aquí puedes realizar otras acciones después de que se hace clic en el botón
-            window.location.href = '01parte.html';
+            window.location.href = 'index.html';
         });
